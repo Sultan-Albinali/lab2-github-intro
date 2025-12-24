@@ -1,7 +1,8 @@
 # Lab 2 – Introduction to GitHub
 
 ## Project Idea
-This project is a simple demo application created to practice GitHub basics such as repositories, branches, issues, and pull requests.
+This project is a simple demo application designed to practice GitHub fundamentals such as repositories, branches, issues, and pull requests.
+
 
 ## How to Run the Project
 1. Clone the repository:
