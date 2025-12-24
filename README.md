@@ -8,3 +8,5 @@ This project is a simple demo application created to practice GitHub basics such
    git clone https://github.com/YOUR-USERNAME/lab2-github-intro
 2. Open the project folder.
 3. Run the main file or open index.html.
+
+The main goal of this project is to gain hands-on experience with GitHub workflows such as commits, branches, issues, and pull requests.
