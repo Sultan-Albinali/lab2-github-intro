@@ -10,3 +10,5 @@ This project is a simple demo application created to practice GitHub basics such
 3. Run the main file or open index.html.
 
 The main goal of this project is to gain hands-on experience with GitHub workflows such as commits, branches, issues, and pull requests.
+
+4. Make sure Git is installed on your system before running the project.
